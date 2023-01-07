@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Seymour+One&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: whitesmoke;
+}
+h1 {
+  font-family: "Seymour One", sans-serif;
+}
